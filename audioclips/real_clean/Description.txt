@@ -1,0 +1,1 @@
+This folder contains the split and cleaned audio files for human speech. Audio.py generated these 10-sec clips.
